@@ -1,4 +1,4 @@
-export default NC = {
+export default {
   fire() {
     console.log('I am firing something')
   },
